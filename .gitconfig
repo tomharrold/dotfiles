@@ -1,0 +1,7 @@
+[user]
+	name = gomtom
+	email = tom.harrold@theconversation.com
+[color]
+	ui = true
+[core]
+	excludesfile = /Users/tom.harrold/.gitignore
